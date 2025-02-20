@@ -1,0 +1,10 @@
+
+streamlit
+tiktoken
+boto3
+pydantic
+langchain
+loguru
+openai
+Pillow
+langchain_community
